@@ -1,8 +1,18 @@
 footer {
+  font-family: courier new;
   background-color: #2F2F2F;
-  top: 0;
+  
 }
+
+th {
+  color: #FFFFFF;
+}
+
 
 a1 {
   color: #A2DCF4;
+}
+
+a {
+  color: #BBBBBB;
 }
