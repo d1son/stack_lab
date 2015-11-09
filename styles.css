@@ -1,5 +1,15 @@
 
 
+.stats{
+	text-align: center;
+	position: relative;
+	left: -25px;
+}
+
+h4 {
+position: relative;
+right: 30px;
+}
 
 #questions{
 	position: relative;
