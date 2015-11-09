@@ -1,0 +1,31 @@
+
+
+.stats{
+	text-align: center;
+	position: relative;
+	left: -25px;
+}
+
+h4 {
+position: relative;
+right: 30px;
+}
+
+#questions{
+	position: relative;
+	top: 50px;
+	border-bottom: 1px solid; 
+	border-color: gainsboro;
+	font-size: 20px;
+}
+
+#submit{
+	position: relative;
+	right: -300px;
+	font-size: 10px;
+	color:gray;
+}
+
+.container{
+	font-style: helvetica;
+}
